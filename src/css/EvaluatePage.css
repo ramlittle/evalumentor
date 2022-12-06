@@ -1,0 +1,82 @@
+.evalumentor-logo-container{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    height: 100px;
+    background-color:blue;
+    text-align:center;
+}
+.evaluation-information-container{
+    position:sticky;
+    top:0;
+    background-color: lightskyblue;
+}
+.evaluation-information-container > label,
+.evaluation-information-container > select,
+.evaluation-information-container > input
+ {
+    padding:10px;
+    font-size: large;
+    margin:5px;
+    
+}
+.evaluate-form-container{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+}
+.evaluate-form > label,
+.evaluate-form > select,
+.evaluate-form > input{
+    padding:10px;
+    font-size: large;
+    margin:5px;
+}
+
+/* trait section */
+.initiative-section,
+.time-management-section,
+.responsibility-section,
+.creativity-section{
+    padding: 10px;
+    margin:10px;
+}
+
+.initiative-section > h3,
+.time-management-section > h3,
+.responsibility-section > h3,
+.creativity-section > h3{
+    color: white;
+    background-color: dodgerblue;
+    padding: 10px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.initiative-section > table,
+.time-management-section > table,
+.responsibility-section > table,
+.creativity-section > table{
+    width: 100%;
+    font-size: large;
+}
+
+.initiative-section select,
+.time-management-section select,
+.responsibility-section select,
+.creativity-section select{
+    padding:10px;
+    text-align:right;
+}
+.select-option-mentor{
+    width:500px;
+}
+.average-result-container{
+    text-align:center;
+}
+.average-result-container > input{
+    padding:20px;
+    font-size: large;
+    font-weight:bold;
+    text-align:center;
+}

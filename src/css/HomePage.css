@@ -1,0 +1,41 @@
+/* HOMEPAGE CSS*/
+
+.homepage-body{
+    display:flex;
+    flex-direction: column;
+    background-color: dodgerblue;
+    height:100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+/* logo design */
+.logo-tag-line{
+    color:white;
+    font-size: x-large;
+    text-shadow: 1px 1px;
+}
+.homepage-buttons-container{
+    display:flex;
+    flex-direction:row;
+}
+.evaluate-link{
+    color: white;
+    padding: 20px;
+    background-color: orange;
+    border-radius: 5px;
+    font-size: large;
+    text-decoration:none;
+    font-weight: bold;
+    margin:10px;
+}
+.evaluate-link:hover{
+    color:orange;
+    background-color: white;
+}
+.evalumentor-logo {
+    transition: transform .3s ease-in-out;
+  }
+.evalumentor-logo:hover {
+    transform: rotate(10deg);
+  }

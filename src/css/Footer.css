@@ -1,0 +1,12 @@
+footer{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+.ramlittle-logo{
+    color:yellow;
+    font-style:comic;
+}

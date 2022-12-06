@@ -1,0 +1,16 @@
+.dashboard-body{
+    display:flex;
+    flex-direction:row;
+}
+.evaluation-details{
+    background-color:Orange;
+    text-align:center;
+}
+.evaluation-count{
+    font-size: xx-large;
+    font-weight:bold;
+    color: blue;
+}
+.hero-details-container{
+    text-align:center;
+}

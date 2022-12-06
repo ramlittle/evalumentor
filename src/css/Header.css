@@ -1,0 +1,13 @@
+header{
+    background-color:blue;
+}
+.link-container{
+    padding:10px;
+}
+.login-link{
+    color:white;
+    text-decoration:none;
+}
+.login-link:hover{
+    color:orange;
+}

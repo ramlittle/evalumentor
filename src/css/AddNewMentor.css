@@ -1,0 +1,35 @@
+.return-button{
+    background-color: orange;
+    color:white;
+    padding:10px;
+    border-radius: 5px;
+    text-decoration:none;
+    margin:10px;
+}
+.return-button:hover{
+    background-color:white;
+    color:orange;
+}
+.add-mentor-form-container{
+    width:40%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.add-mentor-form{
+    display:flex;
+    flex-direction:column;
+}
+.add-mentor-form > label,
+.add-mentor-form > input{
+    padding:10px;
+}
+.add-form-button{
+    background-color:orange;
+    color:white;
+    padding:10px;
+    width:100%;
+}
+.add-form-button:hover{
+    background-color:white;
+    color:orange;
+}
